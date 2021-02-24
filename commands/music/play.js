@@ -82,7 +82,7 @@ module.exports = class playCommand extends Command {
    }
 
    if (serverQueue) {
-    // Que ya existe dispatcher Reproduciendo
+    // 
     await serverQueue.songs.push(song)
     if(playlist) return;
 
