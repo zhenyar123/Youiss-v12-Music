@@ -3,7 +3,7 @@ module.exports = {
  superusers: [""], //SAHİP İD
  token: '',
  ytKey: '',//APİ KEY
- prefix: '', //prefix
+ prefix: '>', //prefix
  statusBOT: '🔥YouMusic|🔥!help|🔥!stats',
  categories: [
   {name: "general", priority: 5},
