@@ -1,9 +1,9 @@
 module.exports = {
  dirBase : './database/base_1.db',
- superusers: [""], //SAHİP İD
- token: '',
+ superusers: ["813426334390681650"], //SAHİP İD
+ token: 'ODE1MTIwODY0MjE4NzEwMDI2.YDnydg.YvhMUf7v0zW6WIzzSyhFqjqi0dk',
  ytKey: '',//APİ KEY
- prefix: '', //prefix
+ prefix: '>', //prefix
  statusBOT: '🔥YouMusic|🔥!help|🔥!stats',
  categories: [
   {name: "general", priority: 5},
